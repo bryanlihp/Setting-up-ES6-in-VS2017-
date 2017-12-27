@@ -1,4 +1,7 @@
 # Setting-up-ES6-in-VS2017
+
+https://www.slightedgecoder.com/2017/05/22/setting-es6-environment-asp-net-mvc-5/
+
 1. NPM configuration and packages
    GO to project folder and run:
       npm init -y
@@ -23,3 +26,5 @@
     import Person from './person'; 
     var person = new Person("David", 20); 
     person.speak();
+5. Config Webpack
+    Create 
